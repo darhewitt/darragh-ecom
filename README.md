@@ -1,4 +1,5 @@
-         ___        ______     ____ _                 _  ___  
+[![Build Status](https://travis-ci.com/darhewitt/darragh-ecom.svg?branch=master)](https://travis-ci.com/darhewitt/darragh-ecom)
+___        ______     ____ _                 _  ___  
         / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
        / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
       / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
