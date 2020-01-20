@@ -71,7 +71,6 @@ stevedore==1.31.0
 stripe==2.42.0
 systemd-python==234
 Twisted==17.9.0
-ufw==0.36
 urllib3==1.25.7
 virtualenv==16.2.0
 virtualenv-clone==0.5.3
