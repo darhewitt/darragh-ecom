@@ -1,6 +1,6 @@
 body {
     font-family: Arial;
-    padding-top: 100px;
+    
 }
 
 .icon-bar {
@@ -45,7 +45,7 @@ caption p {
 
 .panel-default {
     border-color: transparent;
-    padding: 0 10px;
+    padding: 0 0px;
 }
 
 .panel-body {
@@ -55,4 +55,43 @@ caption p {
 
 .product-description {
     min-height: 40px;
+}
+
+.first-info
+{
+background-repeat:no-repeat;
+background-size:100%;
+height:50%;
+width:auto;
+}
+
+.search {
+    padding-left: 60em;
+    padding-top: 1em;
+}
+
+.first-info
+{
+background-repeat:no-repeat;
+background-size:100%;
+height:50%;
+width:auto;
+}
+
+.search {
+    padding-left: 60em;
+    padding-top: 1em;
+}
+
+.logo {
+    font-family:Cinzel;
+}
+
+body {
+    background-color: #faf7f0;
+}
+
+footer {
+    padding-top: 4em;
+    padding-bottom: 1em;
 }
